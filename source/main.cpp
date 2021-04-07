@@ -1,6 +1,9 @@
 #include <iostream>
 
+#include "../include/Solution.h"
+
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    Solution s(10,INPUT_FILE, "test0015");
+    s.getObjectsInfo();
     return 0;
 }

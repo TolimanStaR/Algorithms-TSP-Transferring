@@ -1,0 +1,24 @@
+OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+2021-04-07 22:50:29,603 [    450]   WARN - llij.ide.plugins.PluginManager - Resource bundle redefinition for plugin 'com.jetbrains.pycharm.pro.customization'. Old value: messages.ActionsBundle, new value: messages.PyBundle 
+2021-04-07 22:50:34,816 [   5663]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found [Plugin: com.intellij] 
+2021-04-07 22:50:34,841 [   5688]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: com.intellij] 
+2021-04-07 22:50:34,842 [   5689]   WARN - nSystem.impl.ActionManagerImpl - keymap "NetBeans 6.5" not found [Plugin: com.intellij] 
+2021-04-07 22:50:34,842 [   5689]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found [Plugin: com.intellij] 
+2021-04-07 22:50:34,891 [   5738]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found [Plugin: HtmlTools] 
+2021-04-07 22:50:35,445 [   6292]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: JavaScript] 
+2021-04-07 22:50:35,446 [   6293]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found [Plugin: JavaScript] 
+2021-04-07 22:50:35,692 [   6539]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: Pythonid] 
+2021-04-07 22:50:35,692 [   6539]   WARN - nSystem.impl.ActionManagerImpl - keymap "NetBeans 6.5" not found [Plugin: Pythonid] 
+2021-04-07 22:50:35,708 [   6555]   WARN - nSystem.impl.ActionManagerImpl - keymap "Visual Studio" not found [Plugin: Pythonid] 
+2021-04-07 22:50:35,709 [   6556]   WARN - nSystem.impl.ActionManagerImpl - keymap "Eclipse" not found [Plugin: Pythonid] 
+2021-04-07 22:50:53,797 [  24644]  ERROR - rm.terminal.model.JediTerminal - Unsupported erase in display mode:3 
+2021-04-07 22:50:58,805 [  29652]   WARN - .skeletons.PySkeletonRefresher - Some skeletons failed to generate 
+2021-04-07 22:50:58,806 [  29653]   WARN - .skeletons.PySkeletonRefresher - cv2.qt.plugins.platforms.libqxcb 
+2021-04-07 22:50:58,806 [  29653]   WARN - .skeletons.PySkeletonRefresher - matplotlib.backends._tkagg 
+2021-04-07 22:50:58,806 [  29653]   WARN - .skeletons.PySkeletonRefresher - numpy.core._simd 
+2021-04-07 22:50:58,806 [  29653]   WARN - .skeletons.PySkeletonRefresher - scipy.optimize._lsap_ 
+2021-04-07 22:51:30,719 [  61566]   WARN - .skeletons.PySkeletonRefresher - Some skeletons failed to generate 
+2021-04-07 22:51:30,721 [  61568]   WARN - .skeletons.PySkeletonRefresher - cv2.qt.plugins.platforms.libqxcb 
+2021-04-07 22:51:30,721 [  61568]   WARN - .skeletons.PySkeletonRefresher - matplotlib.backends._tkagg 
+2021-04-07 22:51:30,721 [  61568]   WARN - .skeletons.PySkeletonRefresher - numpy.core._simd 
+2021-04-07 22:51:30,721 [  61568]   WARN - .skeletons.PySkeletonRefresher - scipy.optimize._lsap_ 
