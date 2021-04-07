@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Algorithms-TSP-Transferring.iml" filepath="$PROJECT_DIR$/.idea/Algorithms-TSP-Transferring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Algorithms-VRP-Problem/.idea/Algorithms-TSP-Transferring.iml" filepath="$PROJECT_DIR$/../Algorithms-VRP-Problem/.idea/Algorithms-TSP-Transferring.iml" />
     </modules>
   </component>
 </project>

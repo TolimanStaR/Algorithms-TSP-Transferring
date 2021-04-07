@@ -1,4 +1,4 @@
-# Install script for directory: /home/toliman/Projects/Algorithms-TSP-Transferring
+# Install script for directory: /home/toliman/Projects/Algorithms-VRP-Problem
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/toliman/Projects/Algorithms-TSP-Transferring/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/toliman/Projects/Algorithms-VRP-Problem/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

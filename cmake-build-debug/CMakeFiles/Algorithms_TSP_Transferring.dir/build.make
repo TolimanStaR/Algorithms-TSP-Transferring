@@ -63,10 +63,10 @@ RM = /snap/clion/145/bin/cmake/linux/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/toliman/Projects/Algorithms-TSP-Transferring
+CMAKE_SOURCE_DIR = /home/toliman/Projects/Algorithms-VRP-Problem
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/toliman/Projects/Algorithms-TSP-Transferring/cmake-build-debug
+CMAKE_BINARY_DIR = /home/toliman/Projects/Algorithms-VRP-Problem/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Algorithms_TSP_Transferring.dir/depend.make
@@ -79,29 +79,29 @@ include CMakeFiles/Algorithms_TSP_Transferring.dir/flags.make
 
 CMakeFiles/Algorithms_TSP_Transferring.dir/source/main.cpp.o: CMakeFiles/Algorithms_TSP_Transferring.dir/flags.make
 CMakeFiles/Algorithms_TSP_Transferring.dir/source/main.cpp.o: ../source/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toliman/Projects/Algorithms-TSP-Transferring/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Algorithms_TSP_Transferring.dir/source/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Algorithms_TSP_Transferring.dir/source/main.cpp.o -c /home/toliman/Projects/Algorithms-TSP-Transferring/source/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toliman/Projects/Algorithms-VRP-Problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Algorithms_TSP_Transferring.dir/source/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Algorithms_TSP_Transferring.dir/source/main.cpp.o -c /home/toliman/Projects/Algorithms-VRP-Problem/source/main.cpp
 
 CMakeFiles/Algorithms_TSP_Transferring.dir/source/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms_TSP_Transferring.dir/source/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/toliman/Projects/Algorithms-TSP-Transferring/source/main.cpp > CMakeFiles/Algorithms_TSP_Transferring.dir/source/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/toliman/Projects/Algorithms-VRP-Problem/source/main.cpp > CMakeFiles/Algorithms_TSP_Transferring.dir/source/main.cpp.i
 
 CMakeFiles/Algorithms_TSP_Transferring.dir/source/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms_TSP_Transferring.dir/source/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/toliman/Projects/Algorithms-TSP-Transferring/source/main.cpp -o CMakeFiles/Algorithms_TSP_Transferring.dir/source/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/toliman/Projects/Algorithms-VRP-Problem/source/main.cpp -o CMakeFiles/Algorithms_TSP_Transferring.dir/source/main.cpp.s
 
 CMakeFiles/Algorithms_TSP_Transferring.dir/source/Solution.cpp.o: CMakeFiles/Algorithms_TSP_Transferring.dir/flags.make
 CMakeFiles/Algorithms_TSP_Transferring.dir/source/Solution.cpp.o: ../source/Solution.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toliman/Projects/Algorithms-TSP-Transferring/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Algorithms_TSP_Transferring.dir/source/Solution.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Algorithms_TSP_Transferring.dir/source/Solution.cpp.o -c /home/toliman/Projects/Algorithms-TSP-Transferring/source/Solution.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/toliman/Projects/Algorithms-VRP-Problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Algorithms_TSP_Transferring.dir/source/Solution.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Algorithms_TSP_Transferring.dir/source/Solution.cpp.o -c /home/toliman/Projects/Algorithms-VRP-Problem/source/Solution.cpp
 
 CMakeFiles/Algorithms_TSP_Transferring.dir/source/Solution.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorithms_TSP_Transferring.dir/source/Solution.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/toliman/Projects/Algorithms-TSP-Transferring/source/Solution.cpp > CMakeFiles/Algorithms_TSP_Transferring.dir/source/Solution.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/toliman/Projects/Algorithms-VRP-Problem/source/Solution.cpp > CMakeFiles/Algorithms_TSP_Transferring.dir/source/Solution.cpp.i
 
 CMakeFiles/Algorithms_TSP_Transferring.dir/source/Solution.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorithms_TSP_Transferring.dir/source/Solution.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/toliman/Projects/Algorithms-TSP-Transferring/source/Solution.cpp -o CMakeFiles/Algorithms_TSP_Transferring.dir/source/Solution.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/toliman/Projects/Algorithms-VRP-Problem/source/Solution.cpp -o CMakeFiles/Algorithms_TSP_Transferring.dir/source/Solution.cpp.s
 
 # Object files for target Algorithms_TSP_Transferring
 Algorithms_TSP_Transferring_OBJECTS = \
@@ -115,7 +115,7 @@ Algorithms_TSP_Transferring: CMakeFiles/Algorithms_TSP_Transferring.dir/source/m
 Algorithms_TSP_Transferring: CMakeFiles/Algorithms_TSP_Transferring.dir/source/Solution.cpp.o
 Algorithms_TSP_Transferring: CMakeFiles/Algorithms_TSP_Transferring.dir/build.make
 Algorithms_TSP_Transferring: CMakeFiles/Algorithms_TSP_Transferring.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/toliman/Projects/Algorithms-TSP-Transferring/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Algorithms_TSP_Transferring"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/toliman/Projects/Algorithms-VRP-Problem/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Algorithms_TSP_Transferring"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Algorithms_TSP_Transferring.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -128,6 +128,6 @@ CMakeFiles/Algorithms_TSP_Transferring.dir/clean:
 .PHONY : CMakeFiles/Algorithms_TSP_Transferring.dir/clean
 
 CMakeFiles/Algorithms_TSP_Transferring.dir/depend:
-	cd /home/toliman/Projects/Algorithms-TSP-Transferring/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/toliman/Projects/Algorithms-TSP-Transferring /home/toliman/Projects/Algorithms-TSP-Transferring /home/toliman/Projects/Algorithms-TSP-Transferring/cmake-build-debug /home/toliman/Projects/Algorithms-TSP-Transferring/cmake-build-debug /home/toliman/Projects/Algorithms-TSP-Transferring/cmake-build-debug/CMakeFiles/Algorithms_TSP_Transferring.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/toliman/Projects/Algorithms-VRP-Problem/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/toliman/Projects/Algorithms-VRP-Problem /home/toliman/Projects/Algorithms-VRP-Problem /home/toliman/Projects/Algorithms-VRP-Problem/cmake-build-debug /home/toliman/Projects/Algorithms-VRP-Problem/cmake-build-debug /home/toliman/Projects/Algorithms-VRP-Problem/cmake-build-debug/CMakeFiles/Algorithms_TSP_Transferring.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Algorithms_TSP_Transferring.dir/depend
 

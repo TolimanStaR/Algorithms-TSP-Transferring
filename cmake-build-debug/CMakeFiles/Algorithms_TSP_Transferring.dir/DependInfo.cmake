@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/toliman/Projects/Algorithms-TSP-Transferring/source/Solution.cpp" "/home/toliman/Projects/Algorithms-TSP-Transferring/cmake-build-debug/CMakeFiles/Algorithms_TSP_Transferring.dir/source/Solution.cpp.o"
-  "/home/toliman/Projects/Algorithms-TSP-Transferring/source/main.cpp" "/home/toliman/Projects/Algorithms-TSP-Transferring/cmake-build-debug/CMakeFiles/Algorithms_TSP_Transferring.dir/source/main.cpp.o"
+  "/home/toliman/Projects/Algorithms-VRP-Problem/source/Solution.cpp" "/home/toliman/Projects/Algorithms-VRP-Problem/cmake-build-debug/CMakeFiles/Algorithms_TSP_Transferring.dir/source/Solution.cpp.o"
+  "/home/toliman/Projects/Algorithms-VRP-Problem/source/main.cpp" "/home/toliman/Projects/Algorithms-VRP-Problem/cmake-build-debug/CMakeFiles/Algorithms_TSP_Transferring.dir/source/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
