@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Algorithms_TSP_Transferring.dir/source/main.cpp.o CMakeFiles/Algorithms_TSP_Transferring.dir/source/Solution.cpp.o  -o Algorithms_TSP_Transferring 

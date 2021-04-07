@@ -1,0 +1,14 @@
+//
+// Created by toliman on 07.04.2021.
+//
+
+#ifndef ALGORITHMS_TSP_TRANSFERRING_SOLUTION_H
+#define ALGORITHMS_TSP_TRANSFERRING_SOLUTION_H
+
+
+class Solution {
+
+};
+
+
+#endif //ALGORITHMS_TSP_TRANSFERRING_SOLUTION_H
