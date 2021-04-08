@@ -11,7 +11,7 @@
 #ifndef INCLUDE_SOLUTION_H
 #define INCLUDE_SOLUTION_H
 
-constexpr int defautCarCapacity = 25;
+constexpr int defaultCarCapacity = 150;
 constexpr int defaultCarMaxOil = 100;
 constexpr int defaultCarSpeed = 15;
 
@@ -148,10 +148,13 @@ private:
     int n;
     int numberOfCars;
     int currentCost;
+    double currentTime;
     std::vector<std::vector<double>> matrix;
     std::vector<Car *> cars;
-    std::vector<Object *> objects;
+    std::vector<Shop *> objects;
     Object *base;
+    Object *currentVertex;
+    std::vector<std::vector<Shop *>> solution;
 
 public:
     static std::vector<std::string> split(const std::string &, char sep);
@@ -165,6 +168,18 @@ public:
     int parseInputFile(const std::string &fileName) noexcept;
 
     double dist(Object *first, Object *second);
+
+    bool isReachable(Shop *shop);
+
+    void buildGreedySolution();
+
+    void printCurrentSolution();
+
+    double getCost();
+
+    bool isvalid();
+
+    void resetTime();
 };
 
 #endif  // INCLUDE_SOLUTION_H
